@@ -1,0 +1,36 @@
+The template folder has a bat inside that runs the Main.java in the src folder of the project folder
+
+First unzip both zip files in this folder, creating one folder called jdk-21.
+
+then you can rename the Project folder "Template" into any name.
+
+If you want more Projects just copy the "Template" folder.
+
+Folder structure:
+
+[Project]
+|
+|_ out/		<-- do not put anything in the out path
+|
+|_ src/		<-- put the "Main.java" here
+|
+|_ run.bat		<-- after having wrote everything in N++ or any other ide run this
+
+then it's done.
+it will run automatically!
+
+Magic✨
+
+To use one or more libraries external to java
+
+modify the bat file and put the libraries here:
+
+javac -classpath [path lib1];[path lib2];..N (Other part of command)
+
+right after javac.
+
+and the same libs here:
+
+.\out\project;[path lib1];[path lib2];..N Main
+
+right before Main.
