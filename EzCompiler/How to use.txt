@@ -2,6 +2,8 @@ The template folder has a bat inside that runs the Main.java in the src folder o
 
 First unzip both zip files in this folder, creating one folder called jdk-21.
 
+Otherwise download the jdk compressed archive here --> https://www.oracle.com/java/technologies/downloads/#jdk21-windows
+
 then you can rename the Project folder "Template" into any name.
 
 If you want more Projects just copy the "Template" folder.
