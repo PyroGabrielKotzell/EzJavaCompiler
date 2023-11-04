@@ -1,4 +1,4 @@
-To start run the "Start.bat" program.
+To start run the "Start" script.
 
 The resources such as config, the installed jdks and project paths are in the "resources" folder.
 
